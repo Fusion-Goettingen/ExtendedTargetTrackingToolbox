@@ -1,0 +1,13 @@
+# python specific
+__pycache__
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*.py[cod]
+*.py~
+
+# saved numpy data
+*.npy
+*.npz
+
+# pycharm project files
+.idea
